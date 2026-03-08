@@ -2,14 +2,9 @@
 
 ## 📊 Project Overview
 
-AtliQ Mart, a growing FMCG company, faced a major challenge: **key customers were not renewing annual contracts due to declining service levels**.
+Atliq Mart, a growing FMCG giant, was facing a crisis where several key customers did not renew their annual contracts. The management suspected that poor service levels, specifically regarding delivery timeliness and order completeness, were driving customers to competitors.
 
-The primary issues were:
-- Late deliveries
-- Incomplete orders
-- Inconsistent fulfillment across customers and cities
-
-This project builds a **Supply Chain Analytics Dashboard in Power BI** to monitor service level KPIs and identify the root causes behind customer churn.
+This project builds a **Supply Chain Analytics Report in Power BI** to monitor service level KPIs and identify the root causes behind customer churn.
 
 ---
 
