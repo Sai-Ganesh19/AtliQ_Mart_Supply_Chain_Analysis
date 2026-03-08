@@ -127,21 +127,21 @@ Adjust delivery targets and add **lead-time buffers** to better align operationa
 
 # 📷 Dashboard Preview
 
-# 📷 Dashboard Preview
+## Data Modelling
+![Data Modelling](Data_modelling.png)
 
-## Overview Dashboard
-![Overview](images/overview.png)
+## City Analysis
+![City Analysis](city.png)
 
-## Customer Performance Analysis
-![Customer Analysis](images/customer_analysis.png)
+## Customer Analysis
+![Customer Analysis](customer.png)
 
-## Product Category Analysis
-![Product Analysis](images/product_analysis.png)
+## Trend Analysis
+![Product Analysis](trend.png)
 
-## KPI Trends
-![KPI Trends](images/kpi_trends.png)
+## Product Analysis
+![Trend Analysis](product.png)
 
----
 
 
 ---
